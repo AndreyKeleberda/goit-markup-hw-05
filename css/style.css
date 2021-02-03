@@ -601,7 +601,7 @@ footer img {
 }
 
 .soc-block a {
-  background-color: #afb1b8;
+  background-color: #ffffff1a;
 }
 
 .icon-footer {
@@ -623,7 +623,7 @@ footer img {
 .portfolio-section-list {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .portfolio-section-list .item:not(:last-child) {
