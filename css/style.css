@@ -777,7 +777,8 @@ footer img {
   height: 294px;
 }
 
-.portfolio-link:hover .overlay {
+.portfolio-link:hover .overlay,
+.portfolio-link:focus .overlay {
   transform: translateY(0);
   transition-duration: 500ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
